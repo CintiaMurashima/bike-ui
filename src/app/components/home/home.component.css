@@ -1,0 +1,24 @@
+.form-input-error {
+    border: 2px solid red;
+}
+.form-input-error-message {
+    color: red;
+    font-size: 14px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.valid-message {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    background: blue;
+    color: white;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+}

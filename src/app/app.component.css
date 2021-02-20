@@ -1,0 +1,25 @@
+
+.navbar-title-container {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    cursor: default;
+}
+
+.navbar-title {
+    font-size: 24px;
+    padding-bottom: 0;
+}
+
+.navbar-subtitle {
+    font-size: 12px;
+}
+
+.navbar-justify-end {
+    justify-content: flex-end;
+}
+
+.navbar-element {
+    font-size: 20px;
+    margin-right: 20px;
+}
